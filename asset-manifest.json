@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.64a8e20b.css",
+    "main.js": "/static/js/main.27141f70.js",
+    "static/media/bcimg3.png": "/static/media/bcimg3.9ae734b2bfd7917c6066.png",
+    "static/media/real.jpg": "/static/media/real.2ed867abd096de6baae0.jpg",
+    "static/media/truck.jpg": "/static/media/truck.7779e2486793b8a330ea.jpg",
+    "static/media/about.jpg": "/static/media/about.7c0f9d8fde8e18a972ee.jpg",
+    "static/media/bgImg.png": "/static/media/bgImg.14d30bca937059a5e713.png",
+    "static/media/shopping.jpg": "/static/media/shopping.cf45209d6e1290ee095e.jpg",
+    "static/media/tavern.jpg": "/static/media/tavern.326420be49ebe568f443.jpg",
+    "static/media/termont.jpg": "/static/media/termont.a176ec5e3c5a40a3287f.jpg",
+    "static/media/hotel.jpg": "/static/media/hotel.2c932818f28350588015.jpg",
+    "static/media/logo5.png": "/static/media/logo5.67f2ad5be6bc2838a37a.png",
+    "static/media/bcHire.png": "/static/media/bcHire.1481497f032e98890700.png",
+    "static/media/cobgImg.png": "/static/media/cobgImg.2b4c806774a51a07f890.png",
+    "index.html": "/index.html",
+    "main.64a8e20b.css.map": "/static/css/main.64a8e20b.css.map",
+    "main.27141f70.js.map": "/static/js/main.27141f70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64a8e20b.css",
+    "static/js/main.27141f70.js"
+  ]
+}
